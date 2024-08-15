@@ -1,0 +1,16 @@
+
+.swiper {
+    @apply w-full h-full;
+  }
+  
+  .swiper-slide {
+    @apply text-center bg-white flex justify-center items-center;
+    font-size: 20px;
+    color: #fff;
+    
+  }
+  
+  .swiper-slide img {
+    @apply block w-full h-full object-cover;
+  }
+  

@@ -1,0 +1,56 @@
+{
+  "data": [
+    {
+      "image": "https://xstore.b-cdn.net/elementor2/nft-crypto/wp-content/uploads/sites/13/2023/08/Single-product-image7-min-400x400.jpg",
+      "title": "Azuki 5 Elementals",
+      "price": "0,006952"
+    },
+    {
+      "image": "https://xstore.b-cdn.net/elementor2/nft-crypto/wp-content/uploads/sites/13/2023/08/Single-product-image1-min-600x600.jpg",
+      "title": "Flow Painting #05",
+      "price": "0,005352"
+    },
+    {
+      "image": "https://xstore.b-cdn.net/elementor2/nft-crypto/wp-content/uploads/sites/13/2023/08/Single-product-image2-min-400x400.jpg",
+      "title": "Jumping Mushroom",
+      "price": "0,002553"
+    },
+    {
+      "image": "https://xstore.b-cdn.net/elementor2/nft-crypto/wp-content/uploads/sites/13/2023/08/Single-product-image3-min-400x400.jpg",
+      "title": "DrifterShoots Out",
+      "price": "0,004555"
+    },
+    {
+      "image": "https://xstore.b-cdn.net/elementor2/nft-crypto/wp-content/uploads/sites/13/2023/08/Single-product-image4-min-400x400.jpg",
+      "title": "CryptoPunk Bucket",
+      "price": "0,003257"
+    },
+    {
+      "image": "https://xstore.b-cdn.net/elementor2/nft-crypto/wp-content/uploads/sites/13/2023/08/Single-product-image5-min-400x400.jpg",
+      "title": "The Working Dead",
+      "price": "0,003257"
+    }
+  ],
+  "categories": [
+    {
+      "image": "https://xstore.b-cdn.net/elementor2/nft-crypto/wp-content/uploads/sites/13/2023/09/abstract.jpg",
+      "title": "Abstract"
+    },
+    {
+      "image": "https://xstore.b-cdn.net/elementor2/nft-crypto/wp-content/uploads/sites/13/2023/09/colorful.jpg",
+      "title": "Colorful"
+    },
+    {
+      "image": "https://xstore.b-cdn.net/elementor2/nft-crypto/wp-content/uploads/sites/13/2023/09/creative.jpg",
+      "title": "Creative"
+    },
+    {
+      "image": "https://xstore.b-cdn.net/elementor2/nft-crypto/wp-content/uploads/sites/13/2023/09/digital-art.jpg",
+      "title": "Digital Art"
+    },
+    {
+      "image": "https://xstore.b-cdn.net/elementor2/nft-crypto/wp-content/uploads/sites/13/2023/09/virtual-art.jpg",
+      "title": "Virtual World"
+    }
+  ]
+}
